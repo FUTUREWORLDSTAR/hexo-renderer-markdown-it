@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/hexojs/hexo-renderer-markdown-it/workflows/Tester/badge.svg)](https://github.com/hexojs/hexo-renderer-markdown-it/actions?query=workflow%3ATester)
 [![npm version](https://badge.fury.io/js/hexo-renderer-markdown-it.svg)](https://www.npmjs.com/package/hexo-renderer-markdown-it)
 [![npm dependencies](https://david-dm.org/hexojs/hexo-renderer-markdown-it.svg)](https://david-dm.org/hexojs/hexo-renderer-markdown-it)
-[![Coverage Status](https://coveralls.io/repos/github/hexojs/hexo-renderer-markdown-it/badge.svg?branch=master)](https://coveralls.io/github/hexojs/hexo-renderer-markdown-it?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/hexojs/hexo-renderer-markdown-it/badge.svg?branch=master)](https://coveralls.io/github/hexojs/hexo-renderer-markdown-it?branch=master) [![Join the chat at https://gitter.im/loongtiger/owoi](https://badges.gitter.im/loongtiger/owoi.svg)](https://gitter.im/loongtiger/owoi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This renderer plugin uses [Markdown-it] as a render engine on [Hexo]. Adds support for [Markdown] and [CommonMark].
 
